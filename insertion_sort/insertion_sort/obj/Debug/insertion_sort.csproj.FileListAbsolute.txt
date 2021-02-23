@@ -1,7 +1,0 @@
-C:\Users\lenovo\Source\Repos\insertion_sort\insertion_sort\bin\Debug\insertion_sort.exe.config
-C:\Users\lenovo\Source\Repos\insertion_sort\insertion_sort\bin\Debug\insertion_sort.exe
-C:\Users\lenovo\Source\Repos\insertion_sort\insertion_sort\bin\Debug\insertion_sort.pdb
-C:\Users\lenovo\Source\Repos\insertion_sort\insertion_sort\obj\Debug\insertion_sort.csprojAssemblyReference.cache
-C:\Users\lenovo\Source\Repos\insertion_sort\insertion_sort\obj\Debug\insertion_sort.csproj.CoreCompileInputs.cache
-C:\Users\lenovo\Source\Repos\insertion_sort\insertion_sort\obj\Debug\insertion_sort.exe
-C:\Users\lenovo\Source\Repos\insertion_sort\insertion_sort\obj\Debug\insertion_sort.pdb
